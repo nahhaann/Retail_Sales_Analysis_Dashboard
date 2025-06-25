@@ -1,0 +1,301 @@
+Order ID,Order Date,Product Category,Product Name,Region,Customer Segment,Sales Amount,Quantity,Profit
+ORD1000,2023-01-01,Electronics,Smartphone,North,Retail,1508.95,4,142.81
+ORD1001,2023-01-02,Sports,Tennis Racket,North,Retail,160.39,2,15.03
+ORD1002,2023-01-03,Sports,Tennis Racket,North,Retail,518.84,10,54.81
+ORD1003,2023-01-04,Books,Non-Fiction,East,Retail,627.96,4,151.62
+ORD1004,2023-01-05,Electronics,Laptop,North,Wholesale,283.76,6,48.45
+ORD1005,2023-01-06,Sports,Football,East,Wholesale,1948.92,7,128.16
+ORD1006,2023-01-07,Sports,Football,East,Retail,1438.69,1,262.21
+ORD1007,2023-01-08,Clothing,T-Shirt,East,Retail,822.24,8,145.65
+ORD1008,2023-01-09,Home & Kitchen,Cookware,North,Retail,498.06,5,94.81
+ORD1009,2023-01-10,Sports,Yoga Mat,South,Wholesale,565.14,8,71.15
+ORD1010,2023-01-11,Electronics,Smartphone,North,Retail,1661.42,6,216.37
+ORD1011,2023-01-12,Sports,Yoga Mat,West,Retail,697.89,8,90.12
+ORD1012,2023-01-13,Home & Kitchen,Mixer,West,Wholesale,568.59,9,89.72
+ORD1013,2023-01-14,Home & Kitchen,Mixer,North,Retail,1994.92,3,303.04
+ORD1014,2023-01-15,Electronics,Smartphone,West,Wholesale,1292.15,7,218.74
+ORD1015,2023-01-16,Sports,Tennis Racket,North,Retail,1105.32,9,245.55
+ORD1016,2023-01-17,Sports,Tennis Racket,West,Retail,1560.34,6,112.83
+ORD1017,2023-01-18,Books,Fiction,South,Retail,1912.25,5,467.31
+ORD1018,2023-01-19,Home & Kitchen,Vacuum Cleaner,South,Retail,1064.56,4,85.77
+ORD1019,2023-01-20,Sports,Tennis Racket,East,Retail,1028.35,2,242.51
+ORD1020,2023-01-21,Electronics,Smartphone,West,Retail,1768.22,2,118.7
+ORD1021,2023-01-22,Sports,Football,South,Wholesale,343.94,8,82.33
+ORD1022,2023-01-23,Sports,Yoga Mat,South,Wholesale,903.96,4,213.14
+ORD1023,2023-01-24,Books,Comics,West,Retail,1334.77,8,306.89
+ORD1024,2023-01-25,Clothing,T-Shirt,South,Retail,221.65,1,37.16
+ORD1025,2023-01-26,Electronics,Smartphone,North,Wholesale,1444.9,1,138.4
+ORD1026,2023-01-27,Electronics,Headphones,South,Wholesale,552.21,8,51.27
+ORD1027,2023-01-28,Clothing,Jeans,West,Wholesale,1634.24,4,112.54
+ORD1028,2023-01-29,Books,Non-Fiction,North,Retail,987.35,1,182.34
+ORD1029,2023-01-30,Books,Comics,South,Wholesale,744.67,2,74.27
+ORD1030,2023-01-31,Clothing,Jeans,North,Wholesale,448.63,8,44.85
+ORD1031,2023-02-01,Sports,Football,North,Retail,196.12,9,42.6
+ORD1032,2023-02-02,Clothing,Jeans,North,Retail,1022.72,4,228.0
+ORD1033,2023-02-03,Books,Fiction,West,Wholesale,1972.09,5,464.04
+ORD1034,2023-02-04,Books,Comics,West,Retail,1918.9,9,349.96
+ORD1035,2023-02-05,Clothing,Jeans,North,Wholesale,513.63,1,85.18
+ORD1036,2023-02-06,Electronics,Smartphone,South,Retail,1209.94,9,282.98
+ORD1037,2023-02-07,Sports,Football,South,Wholesale,1717.55,2,290.28
+ORD1038,2023-02-08,Electronics,Headphones,North,Wholesale,567.81,10,32.9
+ORD1039,2023-02-09,Sports,Yoga Mat,East,Retail,1093.29,5,99.33
+ORD1040,2023-02-10,Home & Kitchen,Cookware,North,Retail,348.67,5,49.32
+ORD1041,2023-02-11,Books,Comics,South,Wholesale,1997.06,2,129.11
+ORD1042,2023-02-12,Clothing,Jeans,South,Wholesale,1773.64,4,219.76
+ORD1043,2023-02-13,Sports,Yoga Mat,East,Retail,674.78,9,34.79
+ORD1044,2023-02-14,Clothing,Jeans,South,Wholesale,319.31,2,63.38
+ORD1045,2023-02-15,Home & Kitchen,Vacuum Cleaner,East,Wholesale,500.2,6,45.38
+ORD1046,2023-02-16,Home & Kitchen,Mixer,North,Retail,275.37,7,59.44
+ORD1047,2023-02-17,Home & Kitchen,Mixer,West,Wholesale,1310.52,5,107.88
+ORD1048,2023-02-18,Sports,Football,East,Retail,312.56,3,49.73
+ORD1049,2023-02-19,Books,Fiction,North,Wholesale,179.47,6,41.24
+ORD1050,2023-02-20,Clothing,Jacket,West,Retail,574.11,2,69.32
+ORD1051,2023-02-21,Clothing,T-Shirt,North,Retail,1954.79,3,442.34
+ORD1052,2023-02-22,Home & Kitchen,Cookware,North,Wholesale,1624.25,4,167.88
+ORD1053,2023-02-23,Electronics,Laptop,South,Retail,522.62,8,62.68
+ORD1054,2023-02-24,Electronics,Headphones,North,Wholesale,466.95,6,49.37
+ORD1055,2023-02-25,Home & Kitchen,Vacuum Cleaner,North,Retail,1067.87,9,124.12
+ORD1056,2023-02-26,Home & Kitchen,Mixer,West,Wholesale,1203.12,5,69.36
+ORD1057,2023-02-27,Home & Kitchen,Cookware,South,Wholesale,1251.8,9,91.54
+ORD1058,2023-02-28,Electronics,Headphones,South,Wholesale,928.51,9,218.31
+ORD1059,2023-03-01,Books,Fiction,North,Wholesale,1902.86,6,332.3
+ORD1060,2023-03-02,Sports,Tennis Racket,East,Retail,1367.1,6,178.38
+ORD1061,2023-03-03,Clothing,Jeans,South,Wholesale,1363.37,7,252.86
+ORD1062,2023-03-04,Books,Comics,West,Wholesale,1684.08,5,180.84
+ORD1063,2023-03-05,Books,Non-Fiction,South,Retail,940.1,4,143.12
+ORD1064,2023-03-06,Home & Kitchen,Vacuum Cleaner,South,Wholesale,1361.32,10,159.33
+ORD1065,2023-03-07,Clothing,T-Shirt,West,Retail,379.97,1,37.61
+ORD1066,2023-03-08,Books,Non-Fiction,West,Wholesale,1783.66,10,158.54
+ORD1067,2023-03-09,Books,Fiction,North,Wholesale,380.39,1,86.93
+ORD1068,2023-03-10,Clothing,T-Shirt,South,Retail,1627.81,9,232.63
+ORD1069,2023-03-11,Books,Fiction,East,Wholesale,1622.69,9,401.74
+ORD1070,2023-03-12,Sports,Yoga Mat,West,Retail,1794.84,7,387.89
+ORD1071,2023-03-13,Books,Non-Fiction,East,Wholesale,592.46,4,129.14
+ORD1072,2023-03-14,Clothing,Jeans,East,Wholesale,935.76,5,90.67
+ORD1073,2023-03-15,Sports,Football,South,Retail,362.91,4,45.95
+ORD1074,2023-03-16,Electronics,Laptop,North,Retail,874.44,9,125.21
+ORD1075,2023-03-17,Books,Non-Fiction,North,Wholesale,1819.19,10,435.17
+ORD1076,2023-03-18,Books,Fiction,West,Retail,1891.21,5,379.56
+ORD1077,2023-03-19,Books,Fiction,East,Wholesale,618.58,8,34.52
+ORD1078,2023-03-20,Clothing,Jeans,West,Retail,1847.13,10,289.68
+ORD1079,2023-03-21,Electronics,Headphones,East,Wholesale,914.36,8,78.95
+ORD1080,2023-03-22,Home & Kitchen,Mixer,West,Wholesale,963.93,6,194.95
+ORD1081,2023-03-23,Books,Non-Fiction,North,Wholesale,1686.33,8,90.85
+ORD1082,2023-03-24,Clothing,Jacket,South,Retail,230.37,1,46.27
+ORD1083,2023-03-25,Electronics,Headphones,North,Retail,389.53,3,56.37
+ORD1084,2023-03-26,Books,Comics,North,Retail,586.86,6,49.04
+ORD1085,2023-03-27,Home & Kitchen,Mixer,West,Wholesale,1199.5,5,198.11
+ORD1086,2023-03-28,Clothing,T-Shirt,East,Retail,1224.99,4,86.22
+ORD1087,2023-03-29,Sports,Football,North,Wholesale,759.69,7,138.49
+ORD1088,2023-03-30,Electronics,Laptop,East,Wholesale,1662.43,2,227.26
+ORD1089,2023-03-31,Clothing,Jeans,East,Wholesale,434.66,9,105.66
+ORD1090,2023-04-01,Books,Non-Fiction,South,Retail,1668.9,10,173.03
+ORD1091,2023-04-02,Home & Kitchen,Cookware,West,Wholesale,563.34,8,92.37
+ORD1092,2023-04-03,Electronics,Laptop,East,Wholesale,1716.81,3,253.25
+ORD1093,2023-04-04,Home & Kitchen,Cookware,South,Retail,1772.61,5,285.67
+ORD1094,2023-04-05,Clothing,Jacket,West,Wholesale,872.21,9,175.87
+ORD1095,2023-04-06,Books,Fiction,South,Wholesale,276.8,4,36.23
+ORD1096,2023-04-07,Sports,Tennis Racket,East,Wholesale,999.19,9,118.66
+ORD1097,2023-04-08,Books,Non-Fiction,South,Wholesale,682.58,4,50.6
+ORD1098,2023-04-09,Electronics,Headphones,West,Wholesale,1118.14,3,98.74
+ORD1099,2023-04-10,Sports,Yoga Mat,East,Retail,1233.9,2,267.17
+ORD1100,2023-04-11,Home & Kitchen,Mixer,North,Retail,674.31,9,50.79
+ORD1101,2023-04-12,Sports,Tennis Racket,West,Retail,1425.09,3,253.06
+ORD1102,2023-04-13,Electronics,Headphones,South,Retail,640.24,8,88.41
+ORD1103,2023-04-14,Home & Kitchen,Cookware,North,Retail,316.77,2,41.22
+ORD1104,2023-04-15,Clothing,T-Shirt,South,Retail,1641.17,5,110.02
+ORD1105,2023-04-16,Sports,Tennis Racket,West,Wholesale,1252.0,10,119.11
+ORD1106,2023-04-17,Books,Non-Fiction,North,Retail,1734.32,7,192.64
+ORD1107,2023-04-18,Clothing,Jacket,South,Retail,500.95,2,40.78
+ORD1108,2023-04-19,Clothing,T-Shirt,North,Retail,876.18,10,126.15
+ORD1109,2023-04-20,Home & Kitchen,Vacuum Cleaner,South,Wholesale,637.16,8,40.93
+ORD1110,2023-04-21,Sports,Yoga Mat,South,Retail,1627.42,4,219.75
+ORD1111,2023-04-22,Home & Kitchen,Mixer,East,Wholesale,235.68,3,49.15
+ORD1112,2023-04-23,Electronics,Laptop,West,Wholesale,1408.49,7,335.97
+ORD1113,2023-04-24,Electronics,Headphones,East,Retail,175.74,7,34.6
+ORD1114,2023-04-25,Electronics,Smartphone,North,Wholesale,1927.63,10,322.73
+ORD1115,2023-04-26,Sports,Football,West,Wholesale,1549.91,3,223.34
+ORD1116,2023-04-27,Clothing,Jacket,West,Wholesale,928.18,8,226.3
+ORD1117,2023-04-28,Books,Non-Fiction,East,Wholesale,710.01,2,157.3
+ORD1118,2023-04-29,Books,Non-Fiction,North,Wholesale,1358.91,7,289.06
+ORD1119,2023-04-30,Electronics,Laptop,West,Retail,579.56,2,141.43
+ORD1120,2023-05-01,Sports,Tennis Racket,West,Wholesale,885.17,4,136.04
+ORD1121,2023-05-02,Electronics,Smartphone,West,Wholesale,607.41,3,143.07
+ORD1122,2023-05-03,Electronics,Smartphone,South,Wholesale,1948.98,10,409.02
+ORD1123,2023-05-04,Sports,Football,North,Wholesale,1149.28,2,109.11
+ORD1124,2023-05-05,Electronics,Headphones,East,Wholesale,1681.07,8,397.62
+ORD1125,2023-05-06,Books,Non-Fiction,South,Wholesale,1962.46,4,277.41
+ORD1126,2023-05-07,Clothing,Jacket,East,Wholesale,1065.66,3,237.43
+ORD1127,2023-05-08,Home & Kitchen,Vacuum Cleaner,East,Wholesale,607.63,1,64.75
+ORD1128,2023-05-09,Clothing,Jeans,West,Wholesale,1123.3,6,130.85
+ORD1129,2023-05-10,Home & Kitchen,Mixer,South,Wholesale,1963.47,4,322.72
+ORD1130,2023-05-11,Electronics,Laptop,South,Wholesale,1514.94,7,192.72
+ORD1131,2023-05-12,Electronics,Smartphone,North,Wholesale,1054.35,10,122.73
+ORD1132,2023-05-13,Electronics,Headphones,West,Retail,1829.84,1,355.88
+ORD1133,2023-05-14,Electronics,Laptop,West,Retail,1584.9,5,186.56
+ORD1134,2023-05-15,Home & Kitchen,Vacuum Cleaner,West,Retail,1732.75,7,417.29
+ORD1135,2023-05-16,Sports,Football,North,Wholesale,546.06,5,136.23
+ORD1136,2023-05-17,Electronics,Headphones,East,Retail,1437.39,2,199.42
+ORD1137,2023-05-18,Electronics,Laptop,West,Retail,1612.67,5,196.25
+ORD1138,2023-05-19,Clothing,Jacket,North,Wholesale,882.9,3,74.16
+ORD1139,2023-05-20,Sports,Yoga Mat,West,Wholesale,557.58,10,43.84
+ORD1140,2023-05-21,Books,Non-Fiction,South,Retail,1367.0,8,314.74
+ORD1141,2023-05-22,Books,Non-Fiction,West,Wholesale,1976.54,5,351.4
+ORD1142,2023-05-23,Books,Non-Fiction,North,Retail,478.51,7,105.59
+ORD1143,2023-05-24,Books,Comics,East,Retail,782.02,5,194.36
+ORD1144,2023-05-25,Books,Non-Fiction,West,Wholesale,115.39,1,26.78
+ORD1145,2023-05-26,Clothing,Jacket,East,Retail,1623.67,4,287.91
+ORD1146,2023-05-27,Electronics,Headphones,North,Wholesale,1328.05,5,275.87
+ORD1147,2023-05-28,Clothing,T-Shirt,South,Retail,1828.29,6,364.74
+ORD1148,2023-05-29,Clothing,Jacket,East,Retail,1765.28,6,275.68
+ORD1149,2023-05-30,Home & Kitchen,Cookware,East,Retail,1938.03,5,386.27
+ORD1150,2023-05-31,Books,Fiction,West,Wholesale,367.44,4,81.58
+ORD1151,2023-06-01,Electronics,Laptop,East,Wholesale,126.45,9,9.45
+ORD1152,2023-06-02,Sports,Tennis Racket,South,Wholesale,1662.59,6,119.16
+ORD1153,2023-06-03,Electronics,Headphones,South,Retail,1780.05,9,205.78
+ORD1154,2023-06-04,Books,Comics,North,Retail,674.16,7,49.44
+ORD1155,2023-06-05,Home & Kitchen,Cookware,South,Wholesale,320.63,4,72.93
+ORD1156,2023-06-06,Books,Non-Fiction,South,Wholesale,1373.92,9,183.87
+ORD1157,2023-06-07,Electronics,Laptop,East,Retail,1269.74,5,71.8
+ORD1158,2023-06-08,Books,Non-Fiction,East,Wholesale,1906.05,6,133.18
+ORD1159,2023-06-09,Electronics,Laptop,West,Retail,624.17,2,149.68
+ORD1160,2023-06-10,Clothing,Jacket,East,Retail,1315.04,1,79.05
+ORD1161,2023-06-11,Clothing,Jacket,South,Retail,489.89,9,44.79
+ORD1162,2023-06-12,Home & Kitchen,Mixer,South,Retail,1598.42,10,80.83
+ORD1163,2023-06-13,Sports,Tennis Racket,North,Retail,1617.18,2,294.67
+ORD1164,2023-06-14,Electronics,Laptop,North,Retail,1600.97,4,268.6
+ORD1165,2023-06-15,Home & Kitchen,Mixer,North,Wholesale,340.84,7,52.9
+ORD1166,2023-06-16,Books,Non-Fiction,South,Retail,1075.15,2,150.95
+ORD1167,2023-06-17,Sports,Tennis Racket,West,Wholesale,970.28,1,60.32
+ORD1168,2023-06-18,Books,Comics,North,Wholesale,305.13,8,19.74
+ORD1169,2023-06-19,Sports,Football,East,Wholesale,224.8,5,39.31
+ORD1170,2023-06-20,Sports,Yoga Mat,North,Retail,660.31,9,112.97
+ORD1171,2023-06-21,Sports,Yoga Mat,South,Wholesale,1744.44,7,244.76
+ORD1172,2023-06-22,Home & Kitchen,Cookware,East,Wholesale,857.59,2,96.49
+ORD1173,2023-06-23,Home & Kitchen,Mixer,North,Retail,1404.96,8,89.11
+ORD1174,2023-06-24,Books,Fiction,North,Wholesale,1514.72,6,321.66
+ORD1175,2023-06-25,Electronics,Laptop,North,Wholesale,771.84,7,172.6
+ORD1176,2023-06-26,Sports,Tennis Racket,South,Wholesale,768.13,10,116.36
+ORD1177,2023-06-27,Clothing,T-Shirt,East,Retail,765.22,9,94.51
+ORD1178,2023-06-28,Books,Comics,North,Wholesale,1951.64,10,337.08
+ORD1179,2023-06-29,Electronics,Smartphone,East,Retail,619.21,5,145.09
+ORD1180,2023-06-30,Clothing,T-Shirt,North,Retail,1176.01,7,75.17
+ORD1181,2023-07-01,Sports,Football,East,Wholesale,814.77,8,96.29
+ORD1182,2023-07-02,Home & Kitchen,Vacuum Cleaner,North,Retail,1232.83,1,100.0
+ORD1183,2023-07-03,Home & Kitchen,Cookware,West,Wholesale,1357.68,8,232.73
+ORD1184,2023-07-04,Clothing,Jacket,West,Wholesale,316.25,7,22.83
+ORD1185,2023-07-05,Electronics,Smartphone,South,Wholesale,851.0,10,51.87
+ORD1186,2023-07-06,Clothing,T-Shirt,North,Wholesale,1551.91,5,179.44
+ORD1187,2023-07-07,Books,Fiction,East,Retail,345.45,9,65.89
+ORD1188,2023-07-08,Books,Comics,North,Wholesale,180.37,1,25.6
+ORD1189,2023-07-09,Sports,Tennis Racket,West,Retail,1189.46,7,128.35
+ORD1190,2023-07-10,Home & Kitchen,Mixer,East,Retail,1622.51,10,230.43
+ORD1191,2023-07-11,Books,Fiction,North,Wholesale,562.3,10,73.15
+ORD1192,2023-07-12,Home & Kitchen,Vacuum Cleaner,North,Retail,745.08,6,153.36
+ORD1193,2023-07-13,Sports,Yoga Mat,South,Retail,468.42,6,56.31
+ORD1194,2023-07-14,Electronics,Smartphone,North,Retail,586.34,3,99.96
+ORD1195,2023-07-15,Books,Non-Fiction,East,Wholesale,1533.45,10,214.35
+ORD1196,2023-07-16,Clothing,Jeans,East,Retail,229.74,8,40.5
+ORD1197,2023-07-17,Home & Kitchen,Vacuum Cleaner,North,Wholesale,240.96,8,33.83
+ORD1198,2023-07-18,Home & Kitchen,Mixer,West,Wholesale,1324.87,2,229.2
+ORD1199,2023-07-19,Sports,Yoga Mat,South,Wholesale,1913.04,1,267.72
+ORD1200,2023-07-20,Sports,Tennis Racket,East,Retail,1052.6,1,147.47
+ORD1201,2023-07-21,Sports,Yoga Mat,West,Retail,427.86,4,81.95
+ORD1202,2023-07-22,Home & Kitchen,Cookware,East,Retail,1844.08,7,242.96
+ORD1203,2023-07-23,Home & Kitchen,Mixer,East,Wholesale,726.41,9,134.88
+ORD1204,2023-07-24,Sports,Football,East,Wholesale,733.39,10,134.01
+ORD1205,2023-07-25,Books,Fiction,West,Wholesale,1230.58,2,137.72
+ORD1206,2023-07-26,Clothing,Jacket,West,Wholesale,1435.38,9,98.6
+ORD1207,2023-07-27,Electronics,Laptop,West,Retail,686.85,4,81.29
+ORD1208,2023-07-28,Clothing,T-Shirt,North,Retail,394.4,5,86.33
+ORD1209,2023-07-29,Home & Kitchen,Vacuum Cleaner,South,Retail,348.99,7,28.22
+ORD1210,2023-07-30,Books,Fiction,East,Wholesale,880.63,4,214.8
+ORD1211,2023-07-31,Clothing,Jacket,South,Wholesale,554.42,8,127.96
+ORD1212,2023-08-01,Sports,Tennis Racket,West,Retail,977.19,5,200.93
+ORD1213,2023-08-02,Clothing,Jacket,West,Wholesale,362.96,5,21.94
+ORD1214,2023-08-03,Sports,Football,East,Retail,1451.66,9,319.7
+ORD1215,2023-08-04,Clothing,Jeans,West,Retail,953.71,9,75.79
+ORD1216,2023-08-05,Clothing,Jeans,West,Wholesale,1780.8,1,236.81
+ORD1217,2023-08-06,Clothing,Jeans,East,Retail,1989.6,6,188.83
+ORD1218,2023-08-07,Home & Kitchen,Mixer,West,Retail,361.44,5,84.39
+ORD1219,2023-08-08,Books,Non-Fiction,South,Retail,1269.16,2,68.28
+ORD1220,2023-08-09,Sports,Yoga Mat,East,Retail,1256.87,7,90.79
+ORD1221,2023-08-10,Home & Kitchen,Mixer,West,Retail,190.72,7,33.91
+ORD1222,2023-08-11,Electronics,Laptop,South,Retail,1233.8,1,217.63
+ORD1223,2023-08-12,Home & Kitchen,Cookware,West,Retail,102.97,6,10.1
+ORD1224,2023-08-13,Electronics,Headphones,North,Wholesale,1951.84,2,469.77
+ORD1225,2023-08-14,Books,Fiction,North,Wholesale,1307.77,6,131.73
+ORD1226,2023-08-15,Electronics,Laptop,East,Retail,558.14,2,114.03
+ORD1227,2023-08-16,Electronics,Laptop,West,Wholesale,1137.43,3,245.77
+ORD1228,2023-08-17,Clothing,T-Shirt,South,Retail,219.89,8,12.62
+ORD1229,2023-08-18,Clothing,T-Shirt,West,Wholesale,699.63,5,107.1
+ORD1230,2023-08-19,Electronics,Headphones,North,Wholesale,463.1,6,103.01
+ORD1231,2023-08-20,Home & Kitchen,Mixer,West,Wholesale,1618.75,7,368.91
+ORD1232,2023-08-21,Home & Kitchen,Mixer,East,Retail,1042.79,8,128.75
+ORD1233,2023-08-22,Books,Fiction,East,Retail,918.15,3,146.07
+ORD1234,2023-08-23,Electronics,Laptop,West,Retail,1355.75,5,188.7
+ORD1235,2023-08-24,Books,Non-Fiction,West,Wholesale,949.55,6,164.24
+ORD1236,2023-08-25,Electronics,Smartphone,South,Retail,1375.25,7,168.69
+ORD1237,2023-08-26,Clothing,Jacket,North,Retail,1388.37,8,79.08
+ORD1238,2023-08-27,Home & Kitchen,Cookware,South,Wholesale,827.42,10,46.73
+ORD1239,2023-08-28,Home & Kitchen,Cookware,East,Wholesale,943.48,2,155.47
+ORD1240,2023-08-29,Home & Kitchen,Vacuum Cleaner,South,Wholesale,629.51,2,34.74
+ORD1241,2023-08-30,Sports,Tennis Racket,East,Wholesale,1835.73,2,187.9
+ORD1242,2023-08-31,Clothing,Jacket,South,Retail,642.6,8,57.86
+ORD1243,2023-09-01,Books,Fiction,East,Wholesale,1807.49,8,450.88
+ORD1244,2023-09-02,Electronics,Headphones,South,Wholesale,1130.13,5,248.94
+ORD1245,2023-09-03,Sports,Football,South,Wholesale,330.59,4,68.9
+ORD1246,2023-09-04,Electronics,Laptop,South,Retail,1152.64,6,165.38
+ORD1247,2023-09-05,Electronics,Laptop,West,Retail,856.5,8,132.88
+ORD1248,2023-09-06,Clothing,Jeans,East,Retail,1320.44,8,189.04
+ORD1249,2023-09-07,Sports,Yoga Mat,North,Retail,1216.79,3,166.12
+ORD1250,2023-09-08,Sports,Football,South,Wholesale,677.84,3,77.63
+ORD1251,2023-09-09,Sports,Tennis Racket,East,Retail,1707.27,5,152.39
+ORD1252,2023-09-10,Home & Kitchen,Vacuum Cleaner,South,Retail,1113.61,9,198.44
+ORD1253,2023-09-11,Sports,Yoga Mat,North,Retail,1813.8,6,396.33
+ORD1254,2023-09-12,Electronics,Smartphone,South,Wholesale,1902.24,10,195.8
+ORD1255,2023-09-13,Sports,Yoga Mat,East,Wholesale,157.54,9,17.0
+ORD1256,2023-09-14,Clothing,Jacket,North,Retail,871.58,8,56.3
+ORD1257,2023-09-15,Books,Non-Fiction,South,Wholesale,1020.08,4,120.41
+ORD1258,2023-09-16,Home & Kitchen,Vacuum Cleaner,South,Wholesale,1977.24,6,484.57
+ORD1259,2023-09-17,Sports,Yoga Mat,East,Wholesale,301.75,4,43.24
+ORD1260,2023-09-18,Clothing,T-Shirt,West,Retail,283.94,5,67.88
+ORD1261,2023-09-19,Clothing,Jeans,South,Wholesale,1874.13,6,164.86
+ORD1262,2023-09-20,Sports,Tennis Racket,North,Wholesale,1047.64,5,156.59
+ORD1263,2023-09-21,Sports,Tennis Racket,North,Retail,1936.7,4,322.79
+ORD1264,2023-09-22,Home & Kitchen,Cookware,North,Retail,1235.29,8,132.36
+ORD1265,2023-09-23,Books,Fiction,East,Retail,1776.67,6,360.26
+ORD1266,2023-09-24,Books,Fiction,East,Retail,1183.54,4,144.99
+ORD1267,2023-09-25,Books,Comics,North,Retail,955.67,9,101.25
+ORD1268,2023-09-26,Electronics,Laptop,East,Retail,809.08,6,130.72
+ORD1269,2023-09-27,Clothing,Jacket,North,Retail,1067.33,9,61.96
+ORD1270,2023-09-28,Home & Kitchen,Cookware,South,Wholesale,1086.73,3,186.1
+ORD1271,2023-09-29,Sports,Tennis Racket,East,Wholesale,408.75,10,80.88
+ORD1272,2023-09-30,Sports,Yoga Mat,North,Wholesale,1111.45,10,122.21
+ORD1273,2023-10-01,Home & Kitchen,Vacuum Cleaner,North,Wholesale,308.25,7,51.4
+ORD1274,2023-10-02,Home & Kitchen,Vacuum Cleaner,North,Wholesale,1587.52,10,262.78
+ORD1275,2023-10-03,Clothing,Jacket,West,Retail,1295.15,10,265.4
+ORD1276,2023-10-04,Clothing,T-Shirt,West,Wholesale,1187.88,2,104.72
+ORD1277,2023-10-05,Books,Fiction,West,Retail,884.62,4,116.84
+ORD1278,2023-10-06,Clothing,Jacket,West,Wholesale,493.95,6,123.3
+ORD1279,2023-10-07,Home & Kitchen,Mixer,East,Wholesale,973.36,9,115.31
+ORD1280,2023-10-08,Sports,Tennis Racket,East,Retail,465.3,4,49.23
+ORD1281,2023-10-09,Home & Kitchen,Cookware,East,Wholesale,1439.31,8,163.23
+ORD1282,2023-10-10,Home & Kitchen,Mixer,West,Wholesale,1189.61,9,149.82
+ORD1283,2023-10-11,Clothing,Jeans,West,Wholesale,179.93,2,21.46
+ORD1284,2023-10-12,Books,Fiction,East,Retail,483.93,9,50.44
+ORD1285,2023-10-13,Electronics,Headphones,South,Retail,1507.69,4,148.49
+ORD1286,2023-10-14,Electronics,Smartphone,South,Retail,885.27,8,62.07
+ORD1287,2023-10-15,Sports,Football,South,Wholesale,873.12,8,127.03
+ORD1288,2023-10-16,Home & Kitchen,Cookware,South,Retail,1327.21,2,239.51
+ORD1289,2023-10-17,Clothing,Jeans,North,Wholesale,1776.27,3,420.59
+ORD1290,2023-10-18,Books,Fiction,North,Wholesale,1879.56,5,423.56
+ORD1291,2023-10-19,Sports,Yoga Mat,West,Retail,303.87,6,32.49
+ORD1292,2023-10-20,Sports,Tennis Racket,West,Wholesale,618.39,2,71.82
+ORD1293,2023-10-21,Clothing,T-Shirt,South,Retail,1499.57,5,245.26
+ORD1294,2023-10-22,Sports,Yoga Mat,North,Wholesale,1804.38,7,276.17
+ORD1295,2023-10-23,Electronics,Smartphone,South,Retail,1965.2,8,225.45
+ORD1296,2023-10-24,Home & Kitchen,Cookware,East,Retail,547.49,5,131.84
+ORD1297,2023-10-25,Home & Kitchen,Vacuum Cleaner,North,Wholesale,783.15,4,48.89
+ORD1298,2023-10-26,Home & Kitchen,Mixer,East,Retail,870.29,9,204.19
+ORD1299,2023-10-27,Home & Kitchen,Cookware,West,Retail,1267.79,4,306.14
